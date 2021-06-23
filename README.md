@@ -7,7 +7,7 @@ Simply store the Modules in some location, I generally do it in ReplicatedStorag
 ##### In both of these examples, the modules are stored inside of `ReplicatedStorage`.
 
 
-Example from the Server
+Example from the Server 
 
 ```lua
 --// ServerScript in ServerScriptService
