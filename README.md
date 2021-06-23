@@ -4,8 +4,7 @@ API for achieving a Dissolve Effect on Characters or any Model.
 Simply store the Modules in some location, I generally do it in ReplicatedStorage since you can do this Client-sided and Server-sided.
 #
 
-In both of these examples, the modules are stored inside of `ReplicatedStorage`.
-
+###In both of these examples, the modules are stored inside of `ReplicatedStorage`.
 
 
 Example from the Server
