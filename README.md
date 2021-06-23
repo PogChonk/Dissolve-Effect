@@ -44,6 +44,6 @@ Somewhere in studio, like ReplicatedStorage or ServerStorage, have `Dissolvify` 
 
 ![](https://i.gyazo.com/4b0233129580488ecd22675e5b1dcd24.png)
 
-Then all that's left is to require `Dissolvify` and call `dissolve` and passing in any Instance that has children of BasePart type.
+Then all that's left is to require `Dissolvify` and call `dissolve` (`(Instance) -> ()`) and passing in any Instance that has children of BasePart type.
 
 #### NOTE: Inside of `Utility` there's a `DefaultSize` property for the default size of the parts that are being generated, feel free to change the size.
