@@ -37,3 +37,11 @@ wait(5)
 dissolvify.dissolve(script.Parent)
 ```
 #
+
+### Setup
+
+Somewhere in studio, like ReplicatedStorage or ServerStorage, have `Dissolvify` be the main Module and `Partify` and `Utility` are the children of the main file.
+
+![](https://i.gyazo.com/4b0233129580488ecd22675e5b1dcd24.png)
+
+Then all that's left is to require `Dissolvify` and call `dissolve` and passing in any Instance that has children of BasePart type.
