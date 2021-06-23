@@ -1,5 +1,5 @@
 # Dissolve Effect
-API for achieving a Dissolve Effect on Characters or any Model.
+API for achieving a Dissolve Effect on Instances that have BasePart's as children.
 
 Simply store the Modules in some location, I generally do it in ReplicatedStorage since you can do this Client-sided and Server-sided.
 #
